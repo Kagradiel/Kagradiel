@@ -4,6 +4,7 @@ Atualmente estudante de nutrição, porém entusiasmado com Front-end.
 
 Veja meu primeiro projeto:
 https://ildo.vercel.app/
+
 Logo publicarei mais :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omatheustorres)
