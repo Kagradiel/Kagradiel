@@ -3,7 +3,7 @@
 Atualmente estudante de nutrição, porém entusiasmado com Front-end.
 
 Veja meu primeiro projeto:
-https://ildo.vercel.app/
+https://neuropsicologoildo.com.br
 
 Logo publicarei mais :)
 
