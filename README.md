@@ -1,4 +1,4 @@
-## Olá, eu sou o Matheus Torres 🌅
+# Olá, eu sou o Matheus Torres 🌅
 
 Apaixonado por tecnologia e seus impactos reais na vida das pessoas. 👋
 
@@ -6,7 +6,7 @@ Embora tenha {quase} me graduado na TI, minha paixão pela tecnologia floresceu 
 
 Minha jornada de aprendizado está mais direcionada ao Front end, pois sinto maior facilidade devido a experiências prévias com design durante o trabalho voluntário na igreja, porém pretendo desenvolver habilidades em todos os campos possíveis, apesar do meu foco principal.
 
-<h3>Atualmente tenho habilidades em:</h3>
+## Atualmente tenho habilidades em:
 <ul>
 <li>HTML</li>
 <li>CSS/SCSS</li>
@@ -18,13 +18,11 @@ E estou mergulhando no mundo do {React}, buscando construir soluções inovadora
 
 Aguardo ansiosamente a oportunidade de conectar-me com outros profissionais e contribuir para a construção de um futuro tecnológico mais próspero! 🌎
 
-#### Veja meu primeiro projeto:
+### Veja meu primeiro projeto:
 https://neuropsicologoildo.com.br (landing page)
 
-#### Atualmente criando:
+### Atualmente criando:
 TrainerCard-React (App React)
-
-Logo publicarei mais :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omatheustorres)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omatheustorres/)
