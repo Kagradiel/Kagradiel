@@ -2,7 +2,7 @@
 
 Apaixonado por tecnologia e seus impactos reais na vida das pessoas. 👋
 
-Embora tenha {quase} me graduado na TI, minha paixão pela tecnologia floresceu de fato durante a idealização do meu projeto de graduação do curso de nutrição, que me levou a ver a capacidade que a tecnologia tem de /*curar*/ dores em outras áreas.
+Embora tenha {quase} me graduado na area tech, minha paixão pela tecnologia floresceu de fato durante a idealização do meu projeto de graduação do curso de nutrição, que me levou a ver a capacidade que a tecnologia tem de /*curar*/ dores em outras áreas.
 
 Minha jornada de aprendizado está mais direcionada ao Front end, pois sinto maior facilidade devido a experiências prévias com design durante o trabalho voluntário na igreja, porém pretendo desenvolver habilidades em todos os campos possíveis, apesar do meu foco principal.
 
