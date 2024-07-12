@@ -20,6 +20,12 @@ Minha jornada de aprendizado está mais direcionada ao Front end, pois sinto mai
     <img alt="Git"           src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img alt="Figma"         src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">    
 </div><br/>
+<div style="display: inline_block">
+    <img alt="Node"              src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+    <img alt="Vite"              src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+    <img alt="Typescript"        src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">    
+</div><br/>
 
 Atualmente estou mergulhando no mundo do { <b> React </b> }, buscando construir soluções inovadoras e eficazes.
 
@@ -29,7 +35,7 @@ Aguardo ansiosamente a oportunidade de conectar-me com outros profissionais e co
 https://neuropsicologoildo.com.br (landing page)
 
 ### Atualmente criando:
-TrainerCard-React (App React)
+MatheusTorres (Site pessoal - React e TS )
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omatheustorres)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omatheustorres/)
