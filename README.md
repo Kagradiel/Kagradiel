@@ -33,11 +33,12 @@ Atualmente estou mergulhando no mundo do { <b> React </b> }, buscando construir 
 
 Aguardo ansiosamente a oportunidade de conectar-me com outros profissionais e contribuir para a construção de um futuro tecnológico mais próspero! 🌎
 
-### Veja meu primeiro projeto:
+### Veja meu trabalho:
+https://matheustorres.vercel.app/ (Site pessoal - React e TS )
 https://neuropsicologoildo.com.br (landing page)
 
 ### Atualmente criando:
-MatheusTorres (Site pessoal - React e TS )
+TrainerCard-React  (app de criação de trainer card - React e JS )
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omatheustorres)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omatheustorres/)
