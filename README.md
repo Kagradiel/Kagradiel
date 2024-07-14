@@ -34,7 +34,7 @@ Atualmente estou mergulhando no mundo do { <b> React </b> }, buscando construir 
 Aguardo ansiosamente a oportunidade de conectar-me com outros profissionais e contribuir para a construção de um futuro tecnológico mais próspero! 🌎
 
 ### Veja meu trabalho:
-https://matheustorres.vercel.app/ (Site pessoal - React e TS )
+https://matheustorres.vercel.app/ (Site pessoal - React e TS )</br>
 https://neuropsicologoildo.com.br (landing page)
 
 ### Atualmente criando:
