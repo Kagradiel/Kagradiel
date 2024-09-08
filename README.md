@@ -29,7 +29,7 @@ Minha jornada de aprendizado está mais direcionada ao Front end, pois sinto mai
     
 </div><br/>
 
-Atualmente estou mergulhando no mundo do { <b> React </b> }, buscando construir soluções inovadoras e eficazes.
+Atualmente estou estudando { <b> .NET </b> }, buscando construir soluções inovadoras e eficazes.
 
 Aguardo ansiosamente a oportunidade de conectar-me com outros profissionais e contribuir para a construção de um futuro tecnológico mais próspero! 🌎
 
