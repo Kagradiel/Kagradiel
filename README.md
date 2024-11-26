@@ -19,12 +19,14 @@ Embora tenha {quase} me graduado na area tech, minha paixão por esse campo real
 <div style="display: inline_block">
     <h3>Back-end</h3>
     <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&color=ECDFCC">
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=ECDFCC">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=ECDFCC">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&color=ECDFCC">
 </div>
 
 <div style="display: inline_block">
     <h3>Database</h3>
     <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&color=ECDFCC">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=ECDFCC">
 </div>
 
 <div style="display: inline_block">
@@ -33,6 +35,7 @@ Embora tenha {quase} me graduado na area tech, minha paixão por esse campo real
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white&color=ECDFCC">
     <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=ECDFCC">
     <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&color=ECDFCC">
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=ECDFCC">
 </div>
 
 <div style="display: inline_block">
