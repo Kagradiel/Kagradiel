@@ -1,7 +1,7 @@
 # Olá, eu sou o Matheus Torres 🌅
 
 ## 🚀 Sobre mim
-Apaixonado por tecnologia e orientado a problemas. 👋
+Apaixonado por tecnologia e orientado a resolução de problemas. 👋
 
 Embora tenha {quase} me graduado na area tech, minha paixão por esse campo realmente floresceu durante a idealização de um projeto de graduação do curso de nutrição, onde pude identificar problemas reais e encontrar maneiras de resolvê-los.
 
