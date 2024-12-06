@@ -46,13 +46,7 @@ Embora tenha {quase} me graduado na area tech, minha paixão por esse campo real
 
 Aguardo ansiosamente a oportunidade de conectar-me com outros profissionais e contribuir com a comunidade. 🌎
 
-<div style="color: #7895B2;">
-    <h3>Veja meu trabalho:</h3>
-    <a href="https://matheustorres.vercel.app/" style="color: #7895B2;">Site pessoal - React e TS</a><br/>
-    <a href="https://neuropsicologoildo.com.br" style="color: #7895B2;">landing page- Html, CSS e Javascript</a>
-</div>
-
-### Atualmente criando:
+### Meu trabalho:
  <a href="https://github.com/Kagradiel/MatheusTorres">Portfólio Pessoal em React</a>
  
  <a href="https://github.com/Kagradiel/Blog">API de  um blog em Java</a>
