@@ -53,12 +53,9 @@ Aguardo ansiosamente a oportunidade de conectar-me com outros profissionais e co
 </div>
 
 ### Atualmente criando:
- <a href="https://github.com/Kagradiel/TrainerCard-React">TrainerCard-React  (Front-End app de criação de trainer card - React e JS )</a>
+ <a href="https://github.com/Kagradiel/MatheusTorres">Portfólio Pessoal em React</a>
  
- <a href="https://github.com/Kagradiel/TrainerCardApi">TrainerCardAPI  (Back-End app de criação de trainer card - .NET C# )</a>
- 
- <a href="https://github.com/Kagradiel/trainerCard">TrainerCard Legado  (Front-End feito em JS puro, projeto abandonado com alguns probleminhas mal resolvidos rsrsrs )</a>
-
+ <a href="https://github.com/Kagradiel/Blog">API de  um blog em Java</a>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ECDFCC)](https://www.linkedin.com/in/omatheustorres)
