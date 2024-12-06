@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 Apaixonado por tecnologia e orientado a resolução de problemas. 👋
 
-Embora tenha {quase} me graduado na area tech, minha paixão por esse campo realmente floresceu durante a idealização de um projeto de graduação do curso de nutrição, onde pude identificar problemas reais e encontrar maneiras de resolvê-los.
+Embora tenha {quase} me graduado na area tech, minha paixão por esse campo realmente floresceu durante a idealização de um projeto da minha segunda graduação, agora no curso de nutrição, onde pude identificar problemas reais e encontrar maneiras de resolvê-los.
 
 ## Meus projetos:
  🧠 <a href="https://github.com/Kagradiel/MatheusTorres">Portfólio Pessoal em React</a>
