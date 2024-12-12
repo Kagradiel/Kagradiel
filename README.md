@@ -1,5 +1,10 @@
 # Olá, eu sou o Matheus Torres 🌅
 
+<div align="center">
+  <img  src="https://ssr-contributions-svg.vercel.app/_/kagradiel?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=3.5&animation_delay=0.13&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=14_0&format=svg&weeks=30&theme=dark_green"
+   />
+</div>
+
 ## 🚀 Sobre mim
 Apaixonado por tecnologia e orientado a resolução de problemas. 👋
 
