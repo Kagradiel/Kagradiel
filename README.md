@@ -50,7 +50,7 @@ Aguardo ansiosamente a oportunidade de conectar-me com outros profissionais e co
 ## 🔗 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ECDFCC)](https://www.linkedin.com/in/omatheustorres)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=ECDFCC)](https://www.instagram.com/omatheustorres/)
+[![Website](https://img.shields.io/badge/website-0077B5?style=for-the-badge&logo=About.me&logoColor=white&color=ECDFCC)](https://matheustorres.vercel.app/)
 
 
 
