@@ -20,7 +20,7 @@ Embora tenha {quase} me graduado na area tech, minha paixão por esse campo real
  
  ⚡️ API de  um blog em C#: <a href="https://github.com/Kagradiel/Blogpessoal">Repositório</a>
 
- ### Para acessar a API java:
+ ### Para acessar o Swagger da API java:
  <p>User: root@root.com</p>
  <p>Senha: rootroot</p>
  
