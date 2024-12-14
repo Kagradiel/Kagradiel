@@ -14,12 +14,16 @@ Apaixonado por tecnologia e orientado a resolução de problemas. 👋
 Embora tenha {quase} me graduado na area tech, minha paixão por esse campo realmente floresceu durante a idealização de um projeto da minha segunda graduação, agora no curso de nutrição, onde pude identificar problemas reais e encontrar maneiras de resolvê-los.
 
 ## Meus projetos:
- 🧠 <a href="https://github.com/Kagradiel/MatheusTorres">Portfólio Pessoal em React</a>
+ 🧠 Portfólio Pessoal em React: <a href="https://matheustorres.vercel.app/">Deployed</a> - <a href="https://github.com/Kagradiel/MatheusTorres"> Repositório</a>
  
- ⚡️ <a href="https://github.com/Kagradiel/Blog">API de  um blog em Java</a>
+ ⚡️ API de um blog em Java: <a href="https://blogpessoal-7552.onrender.com">Deployed</a> - <a href="https://github.com/Kagradiel/Blog"> Repositório </a>
  
- ⚡️ <a href="https://github.com/Kagradiel/Blogpessoal">API de  um blog em C#</a>
+ ⚡️ API de  um blog em C#: <a href="https://github.com/Kagradiel/Blogpessoal">Repositório</a>
 
+ ### Para acessar a API java:
+ <p>User: root@root.com</p>
+ <p>Senha: rootroot</p>
+ 
 ## Atualmente tenho habilidades em:
 
 ### Front-end
