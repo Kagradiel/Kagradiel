@@ -22,7 +22,7 @@ Embora tenha {quase} me graduado na area tech, minha paixão por esse campo real
 
  <i>-------- Para acessar a API deployed use ------------
 <p><b>Usuario: </b> root@root.com</p><p><b>Senha: </b> rootroot </p>
-  ----------- por favor não exclua esse usuário</i> 
+  ----------- por favor não edite esse user</i> 
  
 ## Atualmente tenho habilidades em:
 
