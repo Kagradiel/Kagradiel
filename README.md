@@ -50,13 +50,15 @@ Embora tenha {quase} me graduado na area tech, minha paixão por esse campo real
 
 Aguardo ansiosamente a oportunidade de conectar-me com outros profissionais e contribuir com a comunidade. 🌎
 
-
 ## 🔗 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ECDFCC)](https://www.linkedin.com/in/omatheustorres)
 [![Website](https://img.shields.io/badge/website-0077B5?style=for-the-badge&logo=About.me&logoColor=white&color=ECDFCC)](https://matheustorres.vercel.app/)
 
+## Extras
 
+![kagradiel's Stats](https://github-readme-stats.vercel.app/api?username=kagradiel&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![kagradiel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kagradiel&layout=compact&theme=graywhite&show_icons=true&hide_border=true&langs_count=10)
 
 
 
