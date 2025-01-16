@@ -16,13 +16,9 @@ Embora tenha {quase} me graduado na area tech, minha paixão por esse campo real
 ## Meus projetos:
  🧠 Portfólio Pessoal em React: <a href="https://matheustorres.vercel.app/">Deployed</a> - <a href="https://github.com/Kagradiel/MatheusTorres"> Repositório</a>
  
- ⚡️ API de um blog em Java: <a href="https://blogpessoal-7552.onrender.com">Deployed</a> - <a href="https://github.com/Kagradiel/Blog"> Repositório </a>
+ ⚡️ API de um blog em Java: <a href="https://github.com/Kagradiel/Blog"> Repositório </a>
 
  ⚡️ API de  um blog em C#: <a href="https://github.com/Kagradiel/Blogpessoal">Repositório</a>
-
- <i>-------- Para acessar a API deployed use ------------
-<p><b>Usuario: </b> root@root.com</p><p><b>Senha: </b> rootroot </p>
-  ----------- por favor não edite esse user</i> 
  
 ## Atualmente tenho habilidades em:
 
